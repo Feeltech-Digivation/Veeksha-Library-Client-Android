@@ -27,7 +27,7 @@ dependencies {
 To launch the Veeksha you need the authentication token. Generally this token is provided by the backend server.
 
 ```java
-import app.veeksha.library.LauncherActivity
+import app.veeksha.library.LauncherActivity;
 
 
 void launch(Context packageContext, String authToken) {
