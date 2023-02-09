@@ -59,7 +59,7 @@ afterEvaluate {
 
                 groupId = 'app.veeksha.library'
                 artifactId = 'library'
-                version = '1.0.03'
+                version = '1.0.04'
             }
         }
     }
